@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet) 
 
-# Portfolio: setup and mobile version skeleton
+# Portfolio: jamesmoses portfolio admission
 
-For this repository, I've created html templates and styling files in order to built a responsive portfolio ,  which can help to easy explorate  profiles from differents devices.
+For this repository, we created html templates and styling files in order to built a responsive portfolio ,  which can help to easy explorate  profiles from differents devices.
 
 ## Built With 🔨
 
@@ -12,7 +12,7 @@ For this repository, I've created html templates and styling files in order to b
 
 ## Live Demo
 
-[Live Demo Link](https://EngruugbeJimmy.github.io/Portfolio-mobile-view/)
+[Live Demo Link](https://EngruugbeJimmy.github.io/Jamesmoses-admission-Port/)
 
 ### Install
 
@@ -21,7 +21,7 @@ To get a local copy up of this project  and running follow these simple example 
 - Clone this project by the command: 
 
 ```
-$ git clone git@github.com:EngruugbeJimmy/Portfolio-mobile-view.git
+$ git clone git@github.com:EngruugbeJimmy/Jamesmoses-admission-Port.git
 ```
 
 - Then go to the main folder using the next command:
